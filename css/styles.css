@@ -30,5 +30,11 @@ address {
 }
 
 body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
   background-color: #F9F9F9;
+}
+
+.navbar-dark {
+  background-color: #134074;
 }
